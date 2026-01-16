@@ -1,6 +1,6 @@
 # 🧑‍🌾 StardewSync
 
-![Ilustração do Projeto](.\assets\ilustracao.png)
+![Ilustração do Projeto](./assets/ilustracao.png)
 
 > **Sincronizador automático de saves entre PC e Mobile para Stardew Valley.**
 
